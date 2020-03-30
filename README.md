@@ -200,9 +200,9 @@ visualizeCO(CONetwork,'NodeColor',[0.9 0.7 0.1],'FontSize',12,'MarkerSize',36,'E
 ![figure_2.png](cooccurrenceAnalysis_images/figure_2.png)
 
 
-\begin{flushright}
+
 *Copyright 2020 The MathWorks, Inc.*
-\end{flushright}
+
 
 ***
 
