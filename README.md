@@ -199,13 +199,13 @@ visualizeCO(CONetwork,'NodeColor',[0.9 0.7 0.1],'FontSize',12,'MarkerSize',36,'E
 
 ![figure_2.png](cooccurrenceAnalysis_images/figure_2.png)
 
-***
-
-This README.md file is generated with livescript2markdown by minoue-xx(
-https://github.com/minoue-xx/livescript2markdown)
-
 
 \begin{flushright}
 *Copyright 2020 The MathWorks, Inc.*
 \end{flushright}
+
+***
+
+This README.md file is generated with livescript2markdown by minoue-xx(
+https://github.com/minoue-xx/livescript2markdown)
 
