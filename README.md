@@ -203,6 +203,7 @@ visualizeCO(CONetwork,'NodeColor',[0.9 0.7 0.1],'FontSize',12,'MarkerSize',36,'E
 This README.md file is generated with livescript2markdown by minoue-xx
 https://github.com/minoue-xx/livescript2markdown
 
+
 \begin{flushright}
 *Copyright 2020 The MathWorks, Inc.*
 \end{flushright}
