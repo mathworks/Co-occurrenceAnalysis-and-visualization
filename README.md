@@ -1,3 +1,5 @@
+[![View Co-occurrenceAnalysis-and-visualization on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/74776-co-occurrenceanalysis-and-visualization)
+
 # Co-occurrence analysis with Text Analysis Toolbox
 
 
